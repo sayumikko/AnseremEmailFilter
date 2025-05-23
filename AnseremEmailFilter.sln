@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnseremEmailFilter.Tests", "AnseremEmailFilter.Tests\AnseremEmailFilter.Tests.csproj", "{50587D3F-EB37-4F74-A47D-B4FBE65F1B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnseremEmailFilter", "AnseremEmailFilter\AnseremEmailFilter.csproj", "{50419608-6FCE-491E-AAE5-1480CE64CDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50587D3F-EB37-4F74-A47D-B4FBE65F1B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50587D3F-EB37-4F74-A47D-B4FBE65F1B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50587D3F-EB37-4F74-A47D-B4FBE65F1B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50587D3F-EB37-4F74-A47D-B4FBE65F1B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50419608-6FCE-491E-AAE5-1480CE64CDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50419608-6FCE-491E-AAE5-1480CE64CDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50419608-6FCE-491E-AAE5-1480CE64CDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50419608-6FCE-491E-AAE5-1480CE64CDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6038F186-46D5-486A-BE80-7B2D103A30F7}
+	EndGlobalSection
+EndGlobal
